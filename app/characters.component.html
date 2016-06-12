@@ -1,0 +1,10 @@
+<div>
+    <h3>Here are the Star War characters:</h3>
+    <ul>
+        <li *ngFor="let c of characters" class="characterInfo">
+            <div>ID: {{ c.id }}</div>
+            <div>Name: {{ c.name }}</div>
+            <div>Twitter: {{ c.twitter }}</div>
+        </li>
+    </ul>
+</div>

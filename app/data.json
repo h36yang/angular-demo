@@ -1,0 +1,82 @@
+[
+  {
+    "id": 11,
+    "name": "Chewbacca",
+    "twitter": "@im_chewy"
+  },
+  {
+    "id": 12,
+    "name": "Rey",
+    "twitter": "@rey"
+  },
+  {
+    "id": 13,
+    "name": "Finn(FN2187)",
+    "twitter": "@finn"
+  },
+  {
+    "id": 14,
+    "name": "HanSolo",
+    "twitter": "@i_know"
+  },
+  {
+    "id": 15,
+    "name": "LeiaOrgana",
+    "twitter": "@organa"
+  },
+  {
+    "id": 16,
+    "name": "LukeSkywalker",
+    "twitter": "@chosen_one_son"
+  },
+  {
+    "id": 17,
+    "name": "PoeDameron",
+    "twitter": "@i_am_poe"
+  },
+  {
+    "id": 18,
+    "name": "KyloRen",
+    "twitter": "@daddy_issues"
+  },
+  {
+    "id": 19,
+    "name": "SupremeCommanderSnoke",
+    "twitter": "@snoker"
+  },
+  {
+    "id": 20,
+    "name": "R2-D2",
+    "twitter": "@r2d2"
+  },
+  {
+    "id": 21,
+    "name": "BB8",
+    "twitter": "@bb_eight"
+  },
+  {
+    "id": 22,
+    "name": "C-3PO",
+    "twitter": "@goldy"
+  },
+  {
+    "id": 23,
+    "name": "MazKanata",
+    "twitter": "@mazzzy"
+  },
+  {
+    "id": 24,
+    "name": "CaptainPhasma",
+    "twitter": "@fazma"
+  },
+  {
+    "id": 25,
+    "name": "GeneralHux",
+    "twitter": "@hux"
+  },
+  {
+    "id": 26,
+    "name": "LorSanTekka",
+    "twitter": "@lor_san"
+  }
+]
