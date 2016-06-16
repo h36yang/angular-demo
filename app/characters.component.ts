@@ -6,11 +6,7 @@ import { DataService } from "./characters.dataservice";
 @Component({
     selector: "my-characters",
     templateUrl: "app/characters.component.html",
-    styles: [
-        `.characterInfo {
-            padding-bottom: 10px;
-        }`
-    ]
+    styleUrls: ["app/characters.component.css"]
 })
 export class CharactersComponent implements OnInit {
 
