@@ -15,7 +15,7 @@ export class DataService {
     }
 
     private handleError(error: any) {
-        console.error(error);
-        return Observable.throw(error.message || "Server error");
+        console.error("An error occurred", error);
+        return Observable.throw(error.message || error);
     }
 }
